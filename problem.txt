@@ -1,0 +1,2 @@
+How many three-digit multiples of 9 only contain odd digits?
+Note: the sum of the digits of all numbers divisible by 9 is always a miltiple of 9
